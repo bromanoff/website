@@ -1,11 +1,12 @@
 body {
-    background-color: aqua;
+    /* background-color: aqua; */
 }
 
 h1 {
-    color: orangered;
+    color: #426969;
 }
 
 .header {
     margin: 0;
+    background-color: gainsboro;
 }
